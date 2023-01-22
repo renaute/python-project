@@ -1,2 +1,4 @@
 for i in range(10):
-    print('Renata')
+    print('********************')
+    print('Nazywam się Renata')
+
